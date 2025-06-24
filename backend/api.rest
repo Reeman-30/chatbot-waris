@@ -1,6 +1,0 @@
-POST http://localhost:5000/hitung_waris
-Content-Type: application/json
-
-{
-  "teks": "Seorang istri wafat dan meninggalkan empat anaknya, dua anak perempuan dan dua anak laki-laki. Suaminya sudah wafat sebelumnya. Harta waris 1.8 miliar, bagaimana pembagiannya?"
-}
