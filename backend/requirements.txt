@@ -1,0 +1,5 @@
+torch
+joblib
+flask
+flask-cors
+transformers

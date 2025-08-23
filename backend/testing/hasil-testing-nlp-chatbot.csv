@@ -1,0 +1,101 @@
+No;Pertanyaan;Actual;Predicted
+1;Suami saya meninggal dunia, ahli waris yang ditinggalkan adalah saya sebagai istri, seorang anak laki-laki, seorang anak perempuan, serta ayah kandungnya. Peninggalan berupa tabungan sebesar 350 juta rupiah.;Positif;Positif
+2;Saya kini menjanda karena suami wafat, meninggalkan saya, dua anak perempuan, dan ibunya yang masih hidup. Warisan yang tersisa sebesar 280 juta rupiah.;Negatif;Negatif
+3;Suami saya telah berpulang, dan sebagai ahli waris ada saya istrinya, seorang anak laki-laki, tiga anak perempuan, serta ayahnya. Peninggalan harta mencapai 420 juta rupiah.;Positif;Positif
+4;Saya ditinggalkan suami untuk selamanya, ahli waris terdiri dari saya, dua anak laki-laki, serta ibunya. Harta warisan senilai 310 juta rupiah.;Positif;Negatif
+5;Suami saya wafat, yang menjadi ahli waris ialah saya, seorang anak laki-laki, seorang anak perempuan, dan ayahnaya. Warisan yang ada mencapai 260 juta rupiah.;Positif;Positif
+6;Saya kehilangan suami, beliau meninggalkan saya sebagai istri, dua anak perempuan, serta ibunya. Harta yang ditinggalkan 295 juta rupiah.;Negatif;Negatif
+7;Suami saya telah meninggal, ahli warisnya saya, tiga anak perempuan, dan ayahnya. Harta yang diwariskan sekitar 380 juta rupiah.;Positif;Negatif
+8;Saya seorang janda karena suami berpulang, ahli waris ada saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Peninggalan berjumlah 340 juta rupiah.;Negatif;Negatif
+9;Suami saya meninggal dunia, ahli waris terdiri dari saya istrinya, dua anak laki-laki, serta ayah beliau. Harta yang ditinggalkan bernilai 450 juta rupiah.;Positif;Negatif
+10;Saya ditinggalkan suami, beliau meninggalkan saya, seorang anak perempuan, serta ibunya yang masih ada. Warisan mencapai 220 juta rupiah.;Negatif;Negatif
+11;Suami saya wafat, ahli warisnya adalah saya istrinya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Harta peninggalan senilai 390 juta rupiah.;Positif;Positif
+12;Saya kini menjanda, karena suami meninggal, ahli warisnya saya, dua anak perempuan, serta ayahnya. Tabungan peninggalan sebesar 330 juta rupiah.;Positif;Negatif
+13;Suami saya berpulang, meninggalkan saya, seorang anak laki-laki, tiga anak perempuan, dan ibunya. Harta yang tersisa 360 juta rupiah.;Positif;Positif
+14;Saya kehilangan suami, ahli warisnya adalah saya sebagai istri, dua anak laki-laki, serta ayahnya. Warisan berupa tabungan sebesar 400 juta rupiah.;Positif;Negatif
+15;Suami saya meninggal, ahli waris yang ada yaitu saya istrinya, seorang anak perempuan, dan ibunya. Warisan senilai 280 juta rupiah.;Negatif;Negatif
+16;Saya kini sendiri, suami wafat meninggalkan saya, seorang anak laki-laki, seorang anak perempuan, serta ayahnya. Harta warisan mencapai 350 juta rupiah.;Positif;Positif
+17;Suami saya berpulang, ahli warisnya adalah saya, dua anak perempuan, dan ibunya. Harta yang ditinggalkan senilai 300 juta rupiah.;Positif;Negatif
+18;Suami saya wafat, ahli waris terdiri dari saya istrinya, seorang anak laki-laki, seorang anak perempuan, serta ayahnya. Peninggalan sebesar 410 juta rupiah.;Positif;Negatif
+19;Saya ditinggalkan suami, ahli warisnya saya, tiga anak perempuan, dan ibunya. Harta warisan sekitar 325 juta rupiah.;Positif;Negatif
+20;Suami saya telah meninggal, ahli waris yang ditinggalkan yaitu saya istrinya, dua anak laki-laki, serta ayahnya. Tabungan warisan 370 juta rupiah.;Positif;Negatif
+21;Saya kehilangan suami, ahli waris yang ada ialah saya, seorang anak perempuan, serta ibunya. Warisan mencapai 240 juta rupiah.;Positif;Negatif
+22;Suami saya meninggal dunia, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ayahnya. Peninggalan sebesar 430 juta rupiah.;Negatif;Negatif
+23;Suami saya wafat, ahli waris terdiri dari saya istrinya, dua anak perempuan, dan ibunya. Warisan senilai 315 juta rupiah.;Positif;Negatif
+24;Saya ditinggalkan suami, ahli warisnya saya, seorang anak laki-laki, dua anak perempuan, serta ayahnya. Harta warisan sebesar 390 juta rupiah.;Positif;Positif
+25;Suami saya berpulang, ahli warisnya adalah saya istrinya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan sekitar 355 juta rupiah.;Positif;Positif
+26;Suami saya meninggal, ahli warisnya saya, dua anak laki-laki, serta ayahnya. Peninggalan harta senilai 420 juta rupiah.;Positif;Negatif
+27;Saya kehilangan suami, ahli waris terdiri dari saya istrinya, seorang anak laki-laki, dua anak perempuan, dan ibunya. Warisan 370 juta rupiah.;Positif;Positif
+28;Suami saya wafat, ahli warisnya yaitu saya, seorang anak perempuan, dan ayahnya. Peninggalan sebesar 270 juta rupiah.;Negatif;Negatif
+29;Saya kini menjanda, ahli waris yang ada setelah suami wafat adalah saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Tabungan 310 juta rupiah.;Positif;Positif
+30;Suami saya meninggal dunia, ahli warisnya saya istrinya, dua anak perempuan, dan ayahnya. Harta warisan 350 juta rupiah.;Positif;Negatif
+31;Saya kehilangan suami, ahli warisnya adalah saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan mencapai 380 juta rupiah.;Positif;Positif
+32;Suami saya wafat, ahli waris yang tersisa ialah saya, dua anak laki-laki, dan ayahnya. Harta peninggalan senilai 400 juta rupiah.;Positif;Negatif
+33;Suami saya berpulang, ahli warisnya adalah saya istrinya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan 320 juta rupiah.;Positif;Positif
+34;Saya kini sendiri karena suami meninggal, ahli waris terdiri dari saya, tiga anak perempuan, serta ayahnya. Harta peninggalan 360 juta rupiah.;Negatif;Negatif
+35;Suami saya wafat, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, dan ibunya. Warisan sebesar 395 juta rupiah.;Positif;Positif
+36;Saya ditinggalkan suami, ahli waris yang ada adalah saya istrinya, seorang anak laki-laki, dua anak perempuan, serta ayahnya. Tabungan 410 juta rupiah.;Positif;Positif
+37;Suami saya meninggal dunia, ahli waris terdiri dari saya, seorang anak perempuan, serta ibunya. Harta warisan 250 juta rupiah.;Positif;Negatif
+38;Saya kini menjanda karena suami wafat, ahli warisnya adalah saya, dua anak perempuan, dan ayahnya. Warisan senilai 330 juta rupiah.;Positif;Negatif
+39;Suami saya berpulang, ahli warisnya adalah saya istrinya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Tabungan peninggalan 370 juta rupiah.;Positif;Positif
+40;Saya kehilangan suami, ahli warisnya adalah saya, dua anak laki-laki, serta ayahnya. Harta mencapai 430 juta rupiah.;Positif;Negatif
+41;Suami saya wafat, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan sebesar 360 juta rupiah.;Positif;Positif
+42;Saya ditinggalkan suami, ahli warisnya terdiri dari saya, seorang anak perempuan, serta ayahnya. Peninggalan 280 juta rupiah.;Negatif;Negatif
+43;Suami saya meninggal, ahli warisnya adalah saya istrinya, dua anak perempuan, dan ibunya. Harta 310 juta rupiah.;Positif;Negatif
+44;Suami saya wafat, ahli waris yang tersisa ialah saya, seorang anak laki-laki, dua anak perempuan, serta ayahnya. Warisan senilai 390 juta rupiah.;Positif;Positif
+45;Saya kehilangan suami, ahli warisnya adalah saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Harta peninggalan 350 juta rupiah.;Positif;Positif
+46;Suami saya meninggal dunia, ahli waris terdiri dari saya istrinya, tiga anak perempuan, serta ayahnya. Warisan sebesar 370 juta rupiah.;Positif;Negatif
+47;Saya kini menjanda, ahli waris yang ada setelah suami wafat adalah saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Tabungan 335 juta rupiah.;Positif;Positif
+48;Suami saya berpulang, ahli warisnya saya, dua anak laki-laki, dan ayahnya. Harta peninggalan 410 juta rupiah.;Negatif;Negatif
+49;Suami saya meninggal, ahli warisnya saya istrinya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan 390 juta rupiah.;Positif;Positif
+50;Saya ditinggalkan suami, ahli warisnya yaitu saya, seorang anak perempuan, dan ayahnya. Harta yang ditinggalkan 260 juta rupiah.;Positif;Negatif
+51;Suami saya meninggal dunia, ahli warisnya adalah saya istrinya, seorang anak laki-laki, seorang anak perempuan, serta ayahnya. Harta peninggalan 420 juta rupiah dengan hutang 30 juta rupiah.;Positif;Positif
+52;Saya kini menjanda karena suami wafat, ahli waris terdiri dari saya, dua anak perempuan, dan ibunya. Peninggalan sebesar 300 juta rupiah dengan hutang 15 juta rupiah.;Negatif;Negatif
+53;Suami saya berpulang, ahli warisnya saya, seorang anak laki-laki, tiga anak perempuan, serta ayahnya. Harta warisan 450 juta rupiah dengan hutang 50 juta rupiah.;Positif;Positif
+54;Saya kehilangan suami, ahli warisnya ialah saya, dua anak laki-laki, serta ibunya. Warisan 340 juta rupiah dengan hutang 20 juta rupiah.;Positif;Negatif
+55;Suami saya wafat, ahli warisnya saya istrinya, seorang anak perempuan, dan ayahnya. Peninggalan 270 juta rupiah dengan hutang 10 juta rupiah.;Negatif;Negatif
+56;Saya ditinggalkan suami, ahli warisnya adalah saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Harta sebesar 390 juta rupiah dengan hutang 25 juta rupiah.;Positif;Positif
+57;Suami saya meninggal, ahli warisnya saya istrinya, dua anak perempuan, dan ayahnya. Peninggalan 350 juta rupiah dengan hutang 15 juta rupiah.;Negatif;Negatif
+58;Saya kini menjanda, ahli waris yang ada setelah suami wafat adalah saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan 400 juta rupiah dengan hutang 40 juta rupiah.;Positif;Positif
+59;Suami saya meninggal dunia, ahli warisnya saya, tiga anak perempuan, serta ayahnya. Harta warisan 380 juta rupiah dengan hutang 30 juta rupiah.;Positif;Negatif
+60;Saya kehilangan suami, ahli warisnya adalah saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Peninggalan 310 juta rupiah dengan hutang 15 juta rupiah.;Negatif;Negatif
+61;Suami saya wafat, ahli warisnya saya, seorang anak laki-laki, dua anak perempuan, serta ayahnya. Warisan 420 juta rupiah dengan hutang 35 juta rupiah.;Positif;Positif
+62;Saya kini sendiri karena suami meninggal, ahli warisnya saya, dua anak perempuan, dan ibunya. Tabungan peninggalan 290 juta rupiah dengan hutang 12 juta rupiah.;Positif;Negatif
+63;Suami saya berpulang, ahli warisnya yaitu saya istrinya, seorang anak laki-laki, seorang anak perempuan, serta ayahnya. Harta warisan 370 juta rupiah dengan hutang 18 juta rupiah.;Positif;Positif
+64;Saya ditinggalkan suami, ahli warisnya adalah saya, dua anak laki-laki, dan ibunya. Warisan 430 juta rupiah dengan hutang 50 juta rupiah.;Positif;Negatif
+65;Suami saya meninggal, ahli warisnya saya, seorang anak perempuan, serta ayahnya. Harta 260 juta rupiah dengan hutang 15 juta rupiah.;Positif;Negatif
+66;Saya kini menjanda, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Peninggalan 390 juta rupiah dengan hutang 22 juta rupiah.;Negatif;Negatif
+67;Suami saya wafat, ahli warisnya saya, tiga anak perempuan, dan ayahnya. Warisan 360 juta rupiah dengan hutang 25 juta rupiah.;Positif;Negatif
+68;Saya kehilangan suami, ahli warisnya ialah saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Harta 400 juta rupiah dengan hutang 30 juta rupiah.;Positif;Positif
+69;Suami saya berpulang, ahli warisnya adalah saya istrinya, dua anak perempuan, dan ayahnya. Peninggalan 330 juta rupiah dengan hutang 20 juta rupiah.;Negatif;Negatif
+70;Saya ditinggalkan suami, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan 370 juta rupiah dengan hutang 28 juta rupiah.;Positif;Positif
+71;Suami saya meninggal dunia, ahli warisnya saya, dua anak laki-laki, serta ayahnya. Tabungan 450 juta rupiah dengan hutang 40 juta rupiah.;Positif;Negatif
+72;Saya kini menjanda karena suami wafat, ahli warisnya saya, seorang anak perempuan, dan ibunya. Harta warisan 240 juta rupiah dengan hutang 10 juta rupiah.;Positif;Negatif
+73;Suami saya berpulang, ahli warisnya saya istrinya, seorang anak laki-laki, seorang anak perempuan, serta ayahnya. Warisan 390 juta rupiah dengan hutang 15 juta rupiah.;Positif;Positif
+74;Saya kehilangan suami, ahli warisnya saya, dua anak perempuan, dan ibunya. Harta 310 juta rupiah dengan hutang 12 juta rupiah.;Positif;Negatif
+75;Suami saya wafat, ahli warisnya saya, seorang anak laki-laki, dua anak perempuan, serta ayahnya. Tabungan 420 juta rupiah dengan hutang 35 juta rupiah.;Positif;Positif
+76;Saya kini menjanda, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan 380 juta rupiah dengan hutang 22 juta rupiah.;Positif;Positif
+77;Suami saya meninggal, ahli warisnya saya, tiga anak perempuan, serta ayahnya. Harta warisan 340 juta rupiah dengan hutang 18 juta rupiah.;Positif;Negatif
+78;Saya kehilangan suami, ahli warisnya ialah saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan 360 juta rupiah dengan hutang 25 juta rupiah.;Positif;Positif
+79;Suami saya wafat, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ayahnya. Peninggalan 400 juta rupiah dengan hutang 30 juta rupiah.;Negatif;Negatif
+80;Saya ditinggalkan suami, ahli warisnya saya, dua anak perempuan, dan ibunya. Harta warisan 280 juta rupiah dengan hutang 10 juta rupiah.;Positif;Negatif
+81;Suami saya meninggal dunia, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ayahnya. Warisan 390 juta rupiah dengan hutang 25 juta rupiah.;Positif;Positif
+82;Saya kini sendiri, ahli warisnya saya, seorang anak perempuan, dan ibunya. Peninggalan 230 juta rupiah dengan hutang 8 juta rupiah.;Negatif;Negatif
+83;Suami saya berpulang, ahli warisnya adalah saya istrinya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan 370 juta rupiah dengan hutang 18 juta rupiah.;Positif;Positif
+84;Saya kehilangan suami, ahli warisnya saya, dua anak laki-laki, dan ayahnya. Harta warisan 420 juta rupiah dengan hutang 40 juta rupiah.;Positif;Negatif
+85;Suami saya wafat, ahli warisnya saya, seorang anak perempuan, serta ibunya. Tabungan 260 juta rupiah dengan hutang 15 juta rupiah.;Positif;Negatif
+86;Saya kini menjanda, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ayahnya. Peninggalan 400 juta rupiah dengan hutang 35 juta rupiah.;Negatif;Negatif
+87;Suami saya meninggal, ahli warisnya saya, dua anak perempuan, dan ibunya. Harta 310 juta rupiah dengan hutang 12 juta rupiah.;Positif;Negatif
+88;Saya kehilangan suami, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan 350 juta rupiah dengan hutang 22 juta rupiah.;Positif;Positif
+89;Suami saya wafat, ahli warisnya saya, tiga anak perempuan, dan ayahnya. Harta peninggalan 370 juta rupiah dengan hutang 28 juta rupiah.;Positif;Positif
+90;Saya ditinggalkan suami, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan 330 juta rupiah dengan hutang 18 juta rupiah.;Positif;Positif
+91;Suami saya meninggal dunia, ahli warisnya saya, dua anak laki-laki, serta ayahnya. Peninggalan 440 juta rupiah dengan hutang 50 juta rupiah.;Negatif;Negatif
+92;Saya kini menjanda karena suami wafat, ahli warisnya saya, seorang anak perempuan, dan ibunya. Warisan 250 juta rupiah dengan hutang 12 juta rupiah.;Positif;Negatif
+93;Suami saya berpulang, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Harta 360 juta rupiah dengan hutang 20 juta rupiah.;Positif;Positif
+94;Saya kehilangan suami, ahli warisnya saya, dua anak perempuan, serta ayahnya. Peninggalan 300 juta rupiah dengan hutang 15 juta rupiah.;Negatif;Negatif
+95;Suami saya wafat, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Warisan 380 juta rupiah dengan hutang 22 juta rupiah.;Positif;Positif
+96;Saya kini menjanda, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ayahnya. Tabungan 420 juta rupiah dengan hutang 30 juta rupiah.;Positif;Positif
+97;Suami saya meninggal, ahli warisnya saya, dua anak perempuan, dan ibunya. Warisan 290 juta rupiah dengan hutang 10 juta rupiah.;Positif;Negatif
+98;Saya kehilangan suami, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Harta 400 juta rupiah dengan hutang 25 juta rupiah.;Positif;Positif
+99;Suami saya wafat, ahli warisnya saya, tiga anak perempuan, dan ayahnya. Warisan 360 juta rupiah dengan hutang 18 juta rupiah.;Positif;Negatif
+100;Saya ditinggalkan suami, ahli warisnya saya, seorang anak laki-laki, seorang anak perempuan, serta ibunya. Tabungan 350 juta rupiah dengan hutang 15 juta rupiah.;Positif;Positif
