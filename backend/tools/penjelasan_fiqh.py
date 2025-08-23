@@ -2,6 +2,8 @@ def penjelasan_fiqh_waris(entitas):
     if not entitas:
         return 
 
+    entitas = {k: v for k, v in entitas.items() if v != 0}
+
     jenis_pewaris = ""  # fallback default
     if 'suami' not in entitas:
         jenis_pewaris = "seorang suami"
@@ -64,7 +66,12 @@ def penjelasan_fiqh_waris(entitas):
         daftar_bagian.append("kakek mendapat ashabah (sisa) dari harta")
         penjelasan.append("Kakek dari pewaris jalur ayah mendapat bagian ashabah (sisa) karena tidak adanya ahli waris lainnya")
 
-    if 'ibu' in entitas and 'anak' in entitas:
+    # if 'ibu' in entitas and 'anak_perempuan' in entitas:
+    #     ahli_waris.append("seorang ibu")
+    #     daftar_bagian.append("ibu mendapat 1/6 dari harta")
+    #     penjelasan.append("Ibu dari pewaris mendapat 1/6 bagian harta karena pewaris memiliki anak")
+
+    if 'ibu' in entitas and 'anak_perempuan' in entitas and 'anak_laki-laki' in entitas:
         ahli_waris.append("seorang ibu")
         daftar_bagian.append("ibu mendapat 1/6 dari harta")
         penjelasan.append("Ibu dari pewaris mendapat 1/6 bagian harta karena pewaris memiliki anak")
