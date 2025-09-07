@@ -5,7 +5,7 @@
 ### Backend
 
 1. Clone this repo
-2. Install from `requirements.txt` by typing or copy this line
+2. Install from `requirements.txt` by typing or copy this line below
 
 ```
 pip install -r requirements.txt
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ### Frontend
 
 1. Clone this repo
-2. Install node_modules by typing or copy this line
+2. Install `node_modules` by typing or copy this line below
 
 ```
 npm install
